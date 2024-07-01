@@ -8,4 +8,5 @@
     <string name="register_now">Register now</string>
     <string name="welcome">Welcome</string>
     <string name="back_">back!</string>
+    <string name="note_login_to_continue">Please login to continue.</string>
 </resources>
