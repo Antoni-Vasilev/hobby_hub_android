@@ -9,4 +9,10 @@
     <string name="welcome">Welcome</string>
     <string name="back_">back!</string>
     <string name="note_login_to_continue">Please login to continue.</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="username">Username</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="register">Register</string>
 </resources>
