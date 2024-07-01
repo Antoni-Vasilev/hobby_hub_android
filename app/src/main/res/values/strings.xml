@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hobby Hub</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password_">Forgot password?</string>
+    <string name="note_have_not_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
+    <string name="welcome">Welcome</string>
+    <string name="back_">back!</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Base.Theme.Hobby_hub" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="fontFamily">@font/inter_regular</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.Hobby_hub" parent="Base.Theme.Hobby_hub" />
+
+    <style name="Theme.Button.Fill" parent="Theme.Hobby_hub">
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="fontFamily">@font/inter_bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
