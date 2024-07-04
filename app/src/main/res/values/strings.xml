@@ -1,18 +1,20 @@
 <resources>
-    <string name="app_name">Hobby Hub</string>
-    <string name="email">Email</string>
-    <string name="password">Password</string>
-    <string name="log_in">Log In</string>
-    <string name="forgot_password_">Forgot password?</string>
-    <string name="note_have_not_account">Don\'t have an account?</string>
-    <string name="register_now">Register now</string>
-    <string name="welcome">Welcome</string>
-    <string name="back_">back!</string>
-    <string name="note_login_to_continue">Please login to continue.</string>
-    <string name="confirm_password">Confirm password</string>
-    <string name="username">Username</string>
-    <string name="first_name">First name</string>
-    <string name="last_name">Last name</string>
-    <string name="back_to_login">Back to login</string>
-    <string name="register">Register</string>
+	<string name="app_name">Hobby Hub</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+	<string name="log_in">Log In</string>
+	<string name="forgot_password_">Forgot password?</string>
+	<string name="note_have_not_account">Don\'t have an account?</string>
+	<string name="register_now">Register now</string>
+	<string name="welcome">Welcome</string>
+	<string name="back_">back!</string>
+	<string name="note_login_to_continue">Please login to continue.</string>
+	<string name="confirm_password">Confirm password</string>
+	<string name="username">Username</string>
+	<string name="back_to_login">Back to login</string>
+	<string name="register">Register</string>
+	<string name="full_name">Full name</string>
+	<string name="send_link">Send link</string>
+	<string name="select_an_action">Select an action</string>
+	<string name="note_forgot_password_activity">Enter your email address and we will send you a link to reset your password.</string>
 </resources>

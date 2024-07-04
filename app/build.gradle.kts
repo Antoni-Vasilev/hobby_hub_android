@@ -11,8 +11,8 @@ android {
         applicationId = "eu.tumara.hobby_hub"
         minSdk = 24
         targetSdk = 34
-        versionCode = 3
-        versionName = "1.2.1"
+        versionCode = 4
+        versionName = "1.3.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -33,6 +33,7 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    buildToolsVersion = "35.0.0"
 }
 
 dependencies {
@@ -45,4 +46,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation(libs.ucrop) // Image editor
+    implementation(libs.flexbox) // Flexbox
 }
